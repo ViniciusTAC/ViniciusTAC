@@ -9,6 +9,7 @@ Com experiência em
 - MySQL;
 - Git/Github;
 
-- 📫 E-mail para contato: viniciustacosta@gmail.com
+
+📫 E-mail para contato: viniciustacosta@gmail.com
 
 "O caminho para o paraíso começa no inferno."  Dante Alighieri
