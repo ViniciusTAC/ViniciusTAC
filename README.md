@@ -16,10 +16,10 @@ Sou um programador motivado e apaixonado por transformar ideias em realidade atr
   <img align="center" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
   
-  ##<div align="center">
+<div align="center">
   <a href="https://github.com/mrsmiwwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusTAC&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTAC&layout=compact&langs_count=7&theme=aura"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ViniciusTAC&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTAC&layout=compact&langs_count=7&theme=aura"/>
 </div>
  
 <div> 
