@@ -22,16 +22,16 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
   <br>
   
   ⭐ Soft skills
-
-|    Soft skills    |        Liderança          |
-|-------------------|---------------------------|
-|  Resiliência      |  Gerenciamento de Equipe  |
-|  Flexibilidade    |  Método Ágil              |
-|  Comunicação      |  Scrum                    |
-|  Atitude positiva |  Pensamento crítico       |
-|  Criatividade     |  Resolução de Problemas   |
-|  Interpessoalidade|  Elaborar apresentações   |
-|  Empatia          |  Dominio no pacote office |
+| Soft skills         | Liderança                  |
+|---------------------|----------------------------|
+| Resiliência         | Gerenciamento de Equipe    |
+| Flexibilidade       | Método Ágil                |
+| Comunicação         | Elaborar apresentações     |
+| Atitude positiva    | Pensamento crítico         |
+| Criatividade        | Resolução de Problemas     |
+| Empatia             | Domínio no pacote office   |
+| Inteligência emocional | Delegação de tarefas    |
+| Adaptabilidade      |   Habilidade de negociação  |
 
 </br>
 <div align="center">
