@@ -1,4 +1,5 @@
 ## 👋 Oi, eu sou o Vinicius
+<img src="https://media1.tenor.com/m/0fPnYtQ4KTkAAAAC/jinbe-jinbei.gif" />
 
 Sou um programador motivado e apaixonado por transformar ideias em realidade através do código. Com ampla experiência em desenvolvimento de software, busco constantemente aprimorar minhas habilidades técnicas e acompanhar as últimas tendências da indústria.
 
@@ -34,11 +35,17 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
 | Adaptabilidade      |   Habilidade de negociação  |
 
 </br>
+
+<br clear="both">
+
 <div align="center">
-  <a href="https://github.com/ViniciusTAC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusTAC&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTAC&layout=compact&langs_count=7&theme=aura"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusTAC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=synthwave&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20do%20ViniciusTAC" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusTAC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ViniciusTAC&locale=pt-br&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ViniciusTAC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusTAC&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Gr%C3%A1fico%20do%20ViniciusTAC" height="300" alt="activity-graph graph"  />
 </div>
+
    <br>
 
    <div align="center">
