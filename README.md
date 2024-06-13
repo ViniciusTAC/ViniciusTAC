@@ -40,6 +40,11 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTAC&layout=compact&langs_count=7&theme=aura"/>
 </div>
    <br>
+
+   <div align="center">
+  <img src="https://profile-counter.glitch.me/ViniciusTAC/count.svg?"  />
+</div>
+
     
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&redirect=true">
