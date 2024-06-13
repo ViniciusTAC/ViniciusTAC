@@ -40,6 +40,13 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTAC&layout=compact&langs_count=7&theme=aura"/>
 </div>
    <br>
+    
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&cover_image=true&theme=default&show_offline=true&background_color=21012d&interchange=true&bar_color=ff00a2&bar_color_cover=true" alt="Spotify Profile">
+  </a>
+</div>
+
       
 <div> 
   <a href="https://www.instagram.com/vinicius.tac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
