@@ -59,9 +59,5 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-###
-<img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/snake.svg" alt="Snake animation" />
-###
 </div>
 
