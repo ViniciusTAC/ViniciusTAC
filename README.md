@@ -1,7 +1,35 @@
-## 👋 Oi, eu sou o Vinicius
-<img src="https://media1.tenor.com/m/0fPnYtQ4KTkAAAAC/jinbe-jinbei.gif" />
+# 👋 Olá, eu sou Vinícius!
 
-Sou um programador motivado e apaixonado por transformar ideias em realidade através do código. Com ampla experiência em desenvolvimento de software, busco constantemente aprimorar minhas habilidades técnicas e acompanhar as últimas tendências da indústria.
+<div align="center">
+  <img src="https://media1.tenor.com/m/0fPnYtQ4KTkAAAAC/jinbe-jinbei.gif" />
+</div>
+
+## 👨‍💻 Desenvolvedor Full Stack
+
+Sou apaixonado por transformar ideias em realidade através do código. Com ampla experiência em desenvolvimento de software, estou sempre buscando aprimorar minhas habilidades técnicas e acompanhar as últimas tendências da indústria.
+
+Vamos trabalhar juntos para criar algo incrível?
+
+### 📫 Como me encontrar
+
+<div align="center">
+  <p><em>Contato:</em></p>
+  <p>
+    <a href="https://www.instagram.com/vinicius.tac/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
+    </a>
+    <a href="mailto:viniciustacosta@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/vinícius-tadeu-andrade-costa/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    </a>
+  </p>
+</div>
+
+
+
+
 
   <br>
 
@@ -61,10 +89,6 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
 
       
 <div> 
-  <a href="https://www.instagram.com/vinicius.tac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciustacosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinícius-tadeu-andrade-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/github-contribution-grid-snake.svg">
