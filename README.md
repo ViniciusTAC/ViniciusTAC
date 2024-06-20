@@ -81,11 +81,13 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
 </div>
 
     
+<!--
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&cover_image=true&theme=default&show_offline=true&background_color=21012d&interchange=true&bar_color=ff00a2&bar_color_cover=true" alt="Spotify Profile">
   </a>
 </div>
+-->
 
       
 <div> 
