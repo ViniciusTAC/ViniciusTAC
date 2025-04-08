@@ -106,6 +106,8 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 
 </div>
 
