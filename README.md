@@ -77,7 +77,7 @@ Ao longo do meu percurso de aprendizagem independente através do YouTube, curso
    <br>
 
    <div align="center">
-  <img src="https://profile-counter.glitch.me/ViniciusTAC/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/ViniciusTAC/count.svg?"  /> -->
 </div>
 
     
