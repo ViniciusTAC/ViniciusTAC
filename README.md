@@ -14,6 +14,21 @@ No meu dia a dia, participo desde o entendimento das regras de negócio até a i
 
 ---
 
+## Contato
+
+<div align="center">
+  <a href="mailto:viniciustacosta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/vinícius-tadeu-andrade-costa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/vinicius.tac/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+---
 ## Meu principal projeto
 
 ### TCC — Automação de dados da CVM para análise fundamentalista
@@ -160,21 +175,7 @@ Também valorizo competências que ajudam a transformar uma implementação téc
 Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais
 **IFMG — Campus Bambuí**
 
----
 
-## Contato
-
-<div align="center">
-  <a href="mailto:viniciustacosta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/vinícius-tadeu-andrade-costa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/vinicius.tac/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
 
 <!-- <br clear="both">
 
