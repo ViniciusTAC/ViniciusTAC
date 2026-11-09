@@ -10,7 +10,7 @@ Engenheiro de Software Pleno com foco em back-end: APIs REST e sistemas corporat
 <a href="https://github.com/ViniciusTAC"><img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/link-github.svg" alt="GitHub" height="26"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vinicius-tadeu-andrade-costa"><img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/link-linkedin.svg" alt="LinkedIn" height="26"></a>&nbsp;&nbsp;
 <a href="mailto:viniciustacosta@gmail.com"><img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/link-email.svg" alt="E-mail" height="26"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/vinicius.tac/"><img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/link-instagram.svg" alt="Instagram" height="26"></a>
+<!-- <a href="https://www.instagram.com/vinicius.tac/"><img src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/link-instagram.svg" alt="Instagram" height="26"></a> -->
 
 <br>
 
