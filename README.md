@@ -1,10 +1,9 @@
-# Olá, eu sou Vinícius Tadeu
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/header-dark.svg">
+  <img alt="Vinícius Tadeu — Engenheiro de Software" src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/header-light.svg" width="100%">
+</picture>
 
-<!-- <div align="center">
-  <img src="https://media1.tenor.com/m/0fPnYtQ4KTkAAAAC/jinbe-jinbei.gif" alt="Jinbe" />
-</div>  -->
-
-## Engenheiro de Software
+<br>
 
 Sou formado em **Engenharia de Computação pelo Instituto Federal de Minas Gerais — IFMG Campus Bambuí**.
 
@@ -12,198 +11,137 @@ Trabalho com desenvolvimento de sistemas corporativos, APIs, automações, integ
 
 No meu dia a dia, participo desde o entendimento das regras de negócio até a implementação, manutenção e implantação das soluções. Tenho interesse especial por projetos que resolvem problemas reais, organizam processos e transformam dados em informações úteis.
 
----
+<p>
+  <a href="mailto:viniciustacosta@gmail.com"><img src="https://img.shields.io/badge/Email-0A7D5A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-tadeu-andrade-costa/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/vinicius.tac/"><img src="https://img.shields.io/badge/Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-## Contato
+<br>
 
-<div align="center">
-  <a href="mailto:viniciustacosta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/vinícius-tadeu-andrade-costa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- <a href="https://www.instagram.com/vinicius.tac/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a> -->
-</div>
-
----
-## Meu principal projeto
+## <samp>//</samp> Meu principal projeto
 
 ### TCC — Automação de dados da CVM para análise fundamentalista
 
 Meu Trabalho de Conclusão de Curso foi desenvolvido para automatizar a coleta e a estruturação de dados financeiros públicos disponibilizados pela **Comissão de Valores Mobiliários — CVM**.
 
-A proposta do projeto é reunir dados que normalmente estão distribuídos em diferentes arquivos e formatos, processá-los e armazená-los em uma estrutura organizada, facilitando sua utilização em análises fundamentalistas de empresas brasileiras de capital aberto.
+A proposta é reunir dados que normalmente estão distribuídos em diferentes arquivos e formatos, processá-los e armazená-los em uma estrutura organizada, facilitando sua utilização em análises fundamentalistas de empresas brasileiras de capital aberto.
 
-O sistema trabalha com documentos como:
+#### Documentos processados
 
-* Demonstrações Financeiras Padronizadas — DFP;
-* Informações Trimestrais — ITR;
-* Formulário Cadastral — FCA;
-* Informações Periódicas e Eventuais — IPE;
-* Formulário de Referência — FRE.
+<table>
+  <tr>
+    <td><code>DFP</code><br><sub>Demonstrações Financeiras Padronizadas</sub></td>
+    <td><code>ITR</code><br><sub>Informações Trimestrais</sub></td>
+    <td><code>FCA</code><br><sub>Formulário Cadastral</sub></td>
+    <td><code>IPE</code><br><sub>Informações Periódicas e Eventuais</sub></td>
+    <td><code>FRE</code><br><sub>Formulário de Referência</sub></td>
+  </tr>
+</table>
 
-O processamento segue um fluxo de **ETL**, passando pela coleta, extração, transformação, armazenamento e preparação dos dados para análise.
+#### Fluxo ETL
 
-<div align="center">
-  <a href="https://github.com/ViniciusTAC/cvm-fundamentalist-analysis">
-    <img src="https://img.shields.io/badge/Acessar_meu_TCC-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar projeto do TCC">
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/pipeline-dark.svg">
+  <img alt="CVM → Coleta → Extração → Validação → Banco → Análises" src="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/main/assets/pipeline-light.svg" width="100%">
+</picture>
 
-### O que o projeto realiza
+#### O que o projeto realiza
 
-* Coleta arquivos públicos disponibilizados pela CVM;
-* Extrai e trata os dados encontrados nos documentos;
-* Padroniza informações financeiras de diferentes períodos;
-* Armazena os dados em banco relacional;
-* Registra logs de execução, sucessos e falhas;
-* Prepara uma base para consultas e indicadores fundamentalistas;
-* Permite expandir o processamento para novas fontes e análises.
+- Coleta arquivos públicos disponibilizados pela CVM;
+- Extrai e trata os dados encontrados nos documentos;
+- Padroniza informações financeiras de diferentes períodos;
+- Armazena os dados em banco relacional;
+- Registra logs de execução, sucessos e falhas;
+- Prepara uma base para consultas e indicadores fundamentalistas;
+- Permite expandir o processamento para novas fontes e análises.
 
-### Fluxo principal
-
-```text
-CVM
- │
- ▼
-Coleta dos arquivos
- │
- ▼
-Extração e transformação
- │
- ▼
-Validação dos dados
- │
- ▼
-Armazenamento no banco
- │
- ▼
-Consultas e análises fundamentalistas
-```
-
-### Estrutura do projeto
+#### Estrutura
 
 ```text
 src/
-├── collectors/       # Coleta e download dos arquivos da CVM
-├── extractor/        # Extração e transformação dos dados
-├── models/           # Entidades e estruturas utilizadas pelo sistema
-├── service/          # Regras de processamento
-├── repository/       # Comunicação e persistência no banco de dados
-├── utils/            # Funções auxiliares e configuração de logs
-└── main.py           # Ponto inicial da aplicação
+├── collectors/   # Coleta e download dos arquivos da CVM
+├── extractor/    # Extração e transformação dos dados
+├── models/       # Entidades e estruturas do sistema
+├── service/      # Regras de processamento
+├── repository/   # Persistência no banco de dados
+├── utils/        # Funções auxiliares e logs
+└── main.py       # Ponto inicial da aplicação
 ```
 
-### Tecnologias utilizadas no TCC
+#### Tecnologias e requisitos
 
-![Python](https://img.shields.io/badge/Python-000?style=flat\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat\&logo=pandas)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=flat\&logo=sqlalchemy)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=flat\&logo=sqlite)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-000?style=flat\&logo=python)
-![Requests](https://img.shields.io/badge/Requests-000?style=flat\&logo=python)
+<samp>Python</samp> · <samp>Pandas</samp> · <samp>SQLAlchemy</samp> · <samp>SQLite</samp> · <samp>Beautiful Soup</samp> · <samp>Requests</samp>
 
-### Requisitos para execução
+Python 3.11+ · dependências via `requirements.txt` · ~16 GB livres em disco · 8 GB de RAM recomendados
 
-* Python 3.11 ou superior;
-* Dependências instaladas por meio do `requirements.txt`;
-* Aproximadamente 16 GB de espaço livre;
-* Recomendação de pelo menos 8 GB de memória RAM.
-
----
-
-## Tecnologias que utilizo
-
-Minha experiência foi construída por meio da graduação, estudos independentes, cursos, bootcamps e, principalmente, pela aplicação dessas tecnologias em projetos acadêmicos e sistemas utilizados em ambientes profissionais.
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-000?style=flat\&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat\&logo=springboot)
-![Python](https://img.shields.io/badge/Python-000?style=flat\&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat\&logo=nodedotjs)
-![Ruby](https://img.shields.io/badge/Ruby-000?style=flat\&logo=ruby)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-000?style=flat\&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat\&logo=vuedotjs)
-![Vuetify](https://img.shields.io/badge/Vuetify-000?style=flat\&logo=vuetify)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat\&logo=css3\&logoColor=264CE4)
-
-### Bancos de dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat\&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=flat\&logo=sqlite)
-
-### Ferramentas e ambientes
-
-![Git](https://img.shields.io/badge/Git-000?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat\&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat\&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat\&logo=linux)
-![Maven](https://img.shields.io/badge/Maven-000?style=flat\&logo=apachemaven)
-
----
-
-## Além do código
-
-Também valorizo competências que ajudam a transformar uma implementação técnica em uma solução que realmente pode ser utilizada e mantida.
-
-| Competência            | Como aplico                                                     |
-| ---------------------- | --------------------------------------------------------------- |
-| Resolução de problemas | Investigo falhas, identifico causas e desenvolvo correções      |
-| Comunicação            | Traduzo necessidades de negócio para soluções técnicas          |
-| Organização            | Estruturo tarefas, documentação e etapas de desenvolvimento     |
-| Pensamento crítico     | Avalio impactos antes de implementar alterações                 |
-| Trabalho em equipe     | Compartilho conhecimento e colaboro nas decisões técnicas       |
-| Adaptabilidade         | Aprendo novas ferramentas conforme as necessidades dos projetos |
-| Liderança              | Apoio colegas e contribuo com a organização das atividades      |
-
----
-
-## Formação acadêmica
-
-**Bacharelado em Engenharia de Computação**
-Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais
-**IFMG — Campus Bambuí**
-
-
-
-<!-- <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusTAC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=synthwave&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20do%20ViniciusTAC" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusTAC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ViniciusTAC&locale=pt-br&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ViniciusTAC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusTAC&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Gr%C3%A1fico%20do%20ViniciusTAC" height="300" alt="activity-graph graph"  />
-</div>
+<a href="https://github.com/ViniciusTAC/cvm-fundamentalist-analysis"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio_do_TCC_%E2%86%92-0A7D5A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do TCC"></a>
 
 <br>
 
-<div align="center"> -->
+## <samp>//</samp> Tecnologias que utilizo
 
-<!--   <img src="https://profile-counter.glitch.me/ViniciusTAC/count.svg?"  /> -->
+Experiência construída na graduação, em estudos independentes, cursos, bootcamps e, principalmente, na aplicação dessas tecnologias em projetos acadêmicos e sistemas utilizados em ambientes profissionais.
 
-<!-- </div> -->
-
-<!--
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=noix-4&cover_image=true&theme=default&show_offline=true&background_color=21012d&interchange=true&bar_color=ff00a2&bar_color_cover=true" alt="Spotify Profile">
-  </a>
-</div>
--->
+<table>
+  <tr>
+    <td valign="top" width="25%"><b>Backend</b><br><br>
+      <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-21262D?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
+      <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+      <img src="https://img.shields.io/badge/Ruby-21262D?style=flat-square&logo=ruby&logoColor=CC342D" alt="Ruby">
+    </td>
+    <td valign="top" width="25%"><b>Frontend</b><br><br>
+      <img src="https://img.shields.io/badge/Angular-21262D?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
+      <img src="https://img.shields.io/badge/Vue.js-21262D?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Vuetify-21262D?style=flat-square&logo=vuetify&logoColor=1867C0" alt="Vuetify">
+      <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=264DE4" alt="CSS3">
+    </td>
+    <td valign="top" width="25%"><b>Bancos de dados</b><br><br>
+      <img src="https://img.shields.io/badge/SQL_Server-21262D?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
+      <img src="https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-21262D?style=flat-square&logo=sqlite&logoColor=74C0FC" alt="SQLite">
+    </td>
+    <td valign="top" width="25%"><b>Ferramentas</b><br><br>
+      <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub_Actions-21262D?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+      <img src="https://img.shields.io/badge/Maven-21262D?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven">
+    </td>
+  </tr>
+</table>
 
 <br>
+
+## <samp>//</samp> Além do código
+
+Competências que ajudam a transformar uma implementação técnica em uma solução que realmente pode ser utilizada e mantida.
+
+| Competência | Como aplico |
+| --- | --- |
+| **Resolução de problemas** | Investigo falhas, identifico causas e desenvolvo correções |
+| **Comunicação** | Traduzo necessidades de negócio para soluções técnicas |
+| **Organização** | Estruturo tarefas, documentação e etapas de desenvolvimento |
+| **Pensamento crítico** | Avalio impactos antes de implementar alterações |
+| **Trabalho em equipe** | Compartilho conhecimento e colaboro nas decisões técnicas |
+| **Adaptabilidade** | Aprendo novas ferramentas conforme as necessidades dos projetos |
+| **Liderança** | Apoio colegas e contribuo com a organização das atividades |
+
+<br>
+
+## <samp>//</samp> Formação acadêmica
+
+**Bacharelado em Engenharia de Computação**<br>
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais — IFMG Campus Bambuí
+
+<br>
+
+## <samp>//</samp> Atividade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusTAC/ViniciusTAC/output/pacman-contribution-graph-dark.svg">
